@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "FURIA",
+      "starting_side": "attack"
+    },
+    {
+      "name": "LEVIAT\u00c1N",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "nerve",
+      "team": "FURIA",
+      "agent": "astra"
+    },
+    {
+      "name": "artzin",
+      "team": "FURIA",
+      "agent": "killjoy"
+    },
+    {
+      "name": "koalanoob",
+      "team": "FURIA",
+      "agent": "phoenix"
+    },
+    {
+      "name": "alym",
+      "team": "FURIA",
+      "agent": "neon"
+    },
+    {
+      "name": "eeiu",
+      "team": "FURIA",
+      "agent": "fade"
+    },
+    {
+      "name": "kiNgg",
+      "team": "LEVIAT\u00c1N",
+      "agent": "astra"
+    },
+    {
+      "name": "Neon",
+      "team": "LEVIAT\u00c1N",
+      "agent": "chamber"
+    },
+    {
+      "name": "Sato",
+      "team": "LEVIAT\u00c1N",
+      "agent": "phoenix"
+    },
+    {
+      "name": "blowz",
+      "team": "LEVIAT\u00c1N",
+      "agent": "sova"
+    },
+    {
+      "name": "spike",
+      "team": "LEVIAT\u00c1N",
+      "agent": "neon"
+    }
+  ],
+  "map": "Pearl",
+  "map_number": 3,
+  "match_url": "https://www.vlr.gg/660369?game=all&tab=overview",
+  "vod_url": "https://youtu.be/81FqgWS0xRU?t=5570"
+}

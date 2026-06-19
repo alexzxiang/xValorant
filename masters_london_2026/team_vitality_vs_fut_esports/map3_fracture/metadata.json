@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Team Vitality",
+      "starting_side": "attack"
+    },
+    {
+      "name": "FUT Esports",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "PROFEK",
+      "team": "Team Vitality",
+      "agent": "brimstone"
+    },
+    {
+      "name": "Derke",
+      "team": "Team Vitality",
+      "agent": "raze"
+    },
+    {
+      "name": "Chronicle",
+      "team": "Team Vitality",
+      "agent": "cypher"
+    },
+    {
+      "name": "Sayonara",
+      "team": "Team Vitality",
+      "agent": "phoenix"
+    },
+    {
+      "name": "Jamppi",
+      "team": "Team Vitality",
+      "agent": "fade"
+    },
+    {
+      "name": "xeus",
+      "team": "FUT Esports",
+      "agent": "raze"
+    },
+    {
+      "name": "yetujey",
+      "team": "FUT Esports",
+      "agent": "cypher"
+    },
+    {
+      "name": "sociablEE",
+      "team": "FUT Esports",
+      "agent": "brimstone"
+    },
+    {
+      "name": "s0pp",
+      "team": "FUT Esports",
+      "agent": "jett"
+    },
+    {
+      "name": "KROSTALY",
+      "team": "FUT Esports",
+      "agent": "fade"
+    }
+  ],
+  "map": "Fracture",
+  "map_number": 3,
+  "match_url": "https://www.vlr.gg/684614?game=all&tab=overview",
+  "vod_url": "https://youtu.be/pL4dzDvZkLs?t=5941"
+}

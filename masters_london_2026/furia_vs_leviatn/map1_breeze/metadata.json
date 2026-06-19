@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "FURIA",
+      "starting_side": "attack"
+    },
+    {
+      "name": "LEVIAT\u00c1N",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "artzin",
+      "team": "FURIA",
+      "agent": "kayo"
+    },
+    {
+      "name": "alym",
+      "team": "FURIA",
+      "agent": "harbor"
+    },
+    {
+      "name": "eeiu",
+      "team": "FURIA",
+      "agent": "sova"
+    },
+    {
+      "name": "koalanoob",
+      "team": "FURIA",
+      "agent": "jett"
+    },
+    {
+      "name": "nerve",
+      "team": "FURIA",
+      "agent": "viper"
+    },
+    {
+      "name": "kiNgg",
+      "team": "LEVIAT\u00c1N",
+      "agent": "harbor"
+    },
+    {
+      "name": "Sato",
+      "team": "LEVIAT\u00c1N",
+      "agent": "omen"
+    },
+    {
+      "name": "Neon",
+      "team": "LEVIAT\u00c1N",
+      "agent": "jett"
+    },
+    {
+      "name": "blowz",
+      "team": "LEVIAT\u00c1N",
+      "agent": "sova"
+    },
+    {
+      "name": "spike",
+      "team": "LEVIAT\u00c1N",
+      "agent": "neon"
+    }
+  ],
+  "map": "Breeze",
+  "map_number": 1,
+  "match_url": "https://www.vlr.gg/660369?game=all&tab=overview",
+  "vod_url": "https://youtu.be/81FqgWS0xRU?t=365"
+}

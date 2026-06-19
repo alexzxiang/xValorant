@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "KR\u00dc Esports",
+      "starting_side": "attack"
+    },
+    {
+      "name": "NRG",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "saadhak",
+      "team": "KR\u00dc Esports",
+      "agent": "harbor"
+    },
+    {
+      "name": "Less",
+      "team": "KR\u00dc Esports",
+      "agent": "viper"
+    },
+    {
+      "name": "mwzera",
+      "team": "KR\u00dc Esports",
+      "agent": "sova"
+    },
+    {
+      "name": "silentzz",
+      "team": "KR\u00dc Esports",
+      "agent": "kayo"
+    },
+    {
+      "name": "Dantedeu5",
+      "team": "KR\u00dc Esports",
+      "agent": "neon"
+    },
+    {
+      "name": "brawk",
+      "team": "NRG",
+      "agent": "sova"
+    },
+    {
+      "name": "keiko",
+      "team": "NRG",
+      "agent": "jett"
+    },
+    {
+      "name": "Ethan",
+      "team": "NRG",
+      "agent": "kayo"
+    },
+    {
+      "name": "mada",
+      "team": "NRG",
+      "agent": "harbor"
+    },
+    {
+      "name": "skuba",
+      "team": "NRG",
+      "agent": "viper"
+    }
+  ],
+  "map": "Breeze",
+  "map_number": 1,
+  "match_url": "https://www.vlr.gg/660377?game=all&tab=overview",
+  "vod_url": "https://youtu.be/CLAYG_sVl5A?t=320"
+}

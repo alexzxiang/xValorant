@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "NRG",
+      "starting_side": "attack"
+    },
+    {
+      "name": "100 Thieves",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "keiko",
+      "team": "NRG",
+      "agent": "jett"
+    },
+    {
+      "name": "brawk",
+      "team": "NRG",
+      "agent": "sova"
+    },
+    {
+      "name": "Ethan",
+      "team": "NRG",
+      "agent": "kayo"
+    },
+    {
+      "name": "mada",
+      "team": "NRG",
+      "agent": "harbor"
+    },
+    {
+      "name": "skuba",
+      "team": "NRG",
+      "agent": "viper"
+    },
+    {
+      "name": "Cryocells",
+      "team": "100 Thieves",
+      "agent": "cypher"
+    },
+    {
+      "name": "vora",
+      "team": "100 Thieves",
+      "agent": "sova"
+    },
+    {
+      "name": "Timotino",
+      "team": "100 Thieves",
+      "agent": "neon"
+    },
+    {
+      "name": "Asuna",
+      "team": "100 Thieves",
+      "agent": "phoenix"
+    },
+    {
+      "name": "bang",
+      "team": "100 Thieves",
+      "agent": "harbor"
+    }
+  ],
+  "map": "Breeze",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/660379?game=all&tab=overview",
+  "vod_url": "https://youtu.be/HeoQ9f_gChU?t=3345"
+}

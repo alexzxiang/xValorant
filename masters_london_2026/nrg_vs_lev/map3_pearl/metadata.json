@@ -1,0 +1,67 @@
+{
+  "teams": [
+    {
+      "name": "NRG",
+      "starting_side": "attack"
+    },
+    {
+      "name": "LEV",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "Ethan",
+      "team": "NRG",
+      "agent": "tejo"
+    },
+    {
+      "name": "mada",
+      "team": "NRG",
+      "agent": "waylay"
+    },
+    {
+      "name": "keiko",
+      "team": "NRG",
+      "agent": "vyse"
+    },
+    {
+      "name": "brawk",
+      "team": "NRG",
+      "agent": "sova"
+    },
+    {
+      "name": "skuba",
+      "team": "NRG",
+      "agent": "astra"
+    },
+    {
+      "name": "spikeziN",
+      "team": "LEV",
+      "agent": "neon"
+    },
+    {
+      "name": "Neon",
+      "team": "LEV",
+      "agent": "chamber"
+    },
+    {
+      "name": "blowz",
+      "team": "LEV",
+      "agent": "sova"
+    },
+    {
+      "name": "Sato",
+      "team": "LEV",
+      "agent": "phoenix"
+    },
+    {
+      "name": "kiNgg",
+      "team": "LEV",
+      "agent": "astra"
+    }
+  ],
+  "map": "Pearl",
+  "map_number": 3,
+  "match_url": "https://www.vlr.gg/684615/nrg-vs-leviat-n-valorant-masters-london-2026?game=all&tab=overview"
+}

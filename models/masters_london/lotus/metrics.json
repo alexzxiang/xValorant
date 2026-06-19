@@ -1,0 +1,22 @@
+{
+  "map": "lotus",
+  "model": "deepsetsv1",
+  "use_transformer": true,
+  "player_hidden": 64,
+  "global_hidden": 64,
+  "player_layers": 2,
+  "global_layers": 2,
+  "dropout": 0.4,
+  "n_params": 55174,
+  "best_epoch": 2,
+  "val": {
+    "brier": 0.18352054059505463,
+    "logloss": 0.540537416934967,
+    "auc": 0.7834861441357146
+  },
+  "test": {
+    "brier": 0.18872763216495514,
+    "logloss": 0.5524294376373291,
+    "auc": 0.7655932672115044
+  }
+}

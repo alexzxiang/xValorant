@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Xi Lai Gaming",
+      "starting_side": "defense"
+    },
+    {
+      "name": "NRG",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "happywei",
+      "team": "Xi Lai Gaming",
+      "agent": "cypher"
+    },
+    {
+      "name": "WsLeo",
+      "team": "Xi Lai Gaming",
+      "agent": "fade"
+    },
+    {
+      "name": "Rarga",
+      "team": "Xi Lai Gaming",
+      "agent": "sage"
+    },
+    {
+      "name": "Lysoar",
+      "team": "Xi Lai Gaming",
+      "agent": "omen"
+    },
+    {
+      "name": "NoMan",
+      "team": "Xi Lai Gaming",
+      "agent": "deadlock"
+    },
+    {
+      "name": "keiko",
+      "team": "NRG",
+      "agent": "omen"
+    },
+    {
+      "name": "skuba",
+      "team": "NRG",
+      "agent": "viper"
+    },
+    {
+      "name": "Ethan",
+      "team": "NRG",
+      "agent": "fade"
+    },
+    {
+      "name": "mada",
+      "team": "NRG",
+      "agent": "raze"
+    },
+    {
+      "name": "brawk",
+      "team": "NRG",
+      "agent": "vyse"
+    }
+  ],
+  "map": "Lotus",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/684613?game=all&tab=overview",
+  "vod_url": "https://youtu.be/jD3cGBf_Vw4?t=2871"
+}

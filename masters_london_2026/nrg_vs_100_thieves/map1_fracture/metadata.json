@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "NRG",
+      "starting_side": "defense"
+    },
+    {
+      "name": "100 Thieves",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "keiko",
+      "team": "NRG",
+      "agent": "phoenix"
+    },
+    {
+      "name": "brawk",
+      "team": "NRG",
+      "agent": "brimstone"
+    },
+    {
+      "name": "mada",
+      "team": "NRG",
+      "agent": "waylay"
+    },
+    {
+      "name": "Ethan",
+      "team": "NRG",
+      "agent": "fade"
+    },
+    {
+      "name": "skuba",
+      "team": "NRG",
+      "agent": "cypher"
+    },
+    {
+      "name": "Cryocells",
+      "team": "100 Thieves",
+      "agent": "cypher"
+    },
+    {
+      "name": "vora",
+      "team": "100 Thieves",
+      "agent": "fade"
+    },
+    {
+      "name": "Timotino",
+      "team": "100 Thieves",
+      "agent": "neon"
+    },
+    {
+      "name": "Asuna",
+      "team": "100 Thieves",
+      "agent": "raze"
+    },
+    {
+      "name": "bang",
+      "team": "100 Thieves",
+      "agent": "brimstone"
+    }
+  ],
+  "map": "Fracture",
+  "map_number": 1,
+  "match_url": "https://www.vlr.gg/660379?game=all&tab=overview",
+  "vod_url": "https://youtu.be/HeoQ9f_gChU?t=289"
+}

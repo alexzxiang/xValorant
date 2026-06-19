@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "FUT Esports",
+      "starting_side": "attack"
+    },
+    {
+      "name": "NRG",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "KROSTALY",
+      "team": "FUT Esports",
+      "agent": "sova"
+    },
+    {
+      "name": "yetujey",
+      "team": "FUT Esports",
+      "agent": "cypher"
+    },
+    {
+      "name": "xeus",
+      "team": "FUT Esports",
+      "agent": "waylay"
+    },
+    {
+      "name": "sociablEE",
+      "team": "FUT Esports",
+      "agent": "omen"
+    },
+    {
+      "name": "s0pp",
+      "team": "FUT Esports",
+      "agent": "jett"
+    },
+    {
+      "name": "skuba",
+      "team": "NRG",
+      "agent": "cypher"
+    },
+    {
+      "name": "brawk",
+      "team": "NRG",
+      "agent": "sova"
+    },
+    {
+      "name": "keiko",
+      "team": "NRG",
+      "agent": "phoenix"
+    },
+    {
+      "name": "mada",
+      "team": "NRG",
+      "agent": "jett"
+    },
+    {
+      "name": "Ethan",
+      "team": "NRG",
+      "agent": "omen"
+    }
+  ],
+  "map": "Haven",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/684619?game=all&tab=overview",
+  "vod_url": "https://youtu.be/ep-ofVqg81s?t=3626"
+}

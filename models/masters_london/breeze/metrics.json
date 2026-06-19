@@ -1,0 +1,22 @@
+{
+  "map": "breeze",
+  "model": "deepsetsv1",
+  "use_transformer": true,
+  "player_hidden": 64,
+  "global_hidden": 64,
+  "player_layers": 2,
+  "global_layers": 2,
+  "dropout": 0.4,
+  "n_params": 55174,
+  "best_epoch": 3,
+  "val": {
+    "brier": 0.13955950736999512,
+    "logloss": 0.44595634937286377,
+    "auc": 0.8890211622702611
+  },
+  "test": {
+    "brier": 0.1745309680700302,
+    "logloss": 0.519199550151825,
+    "auc": 0.8218124191948419
+  }
+}

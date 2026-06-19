@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Dragon Ranger Gaming",
+      "starting_side": "defense"
+    },
+    {
+      "name": "Xi Lai Gaming",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "SpiritZ1",
+      "team": "Dragon Ranger Gaming",
+      "agent": "jett"
+    },
+    {
+      "name": "vo0kashu",
+      "team": "Dragon Ranger Gaming",
+      "agent": "vyse"
+    },
+    {
+      "name": "Life",
+      "team": "Dragon Ranger Gaming",
+      "agent": "phoenix"
+    },
+    {
+      "name": "Nicc",
+      "team": "Dragon Ranger Gaming",
+      "agent": "fade"
+    },
+    {
+      "name": "Flex1n",
+      "team": "Dragon Ranger Gaming",
+      "agent": "astra"
+    },
+    {
+      "name": "happywei",
+      "team": "Xi Lai Gaming",
+      "agent": "viper"
+    },
+    {
+      "name": "WsLeo",
+      "team": "Xi Lai Gaming",
+      "agent": "skye"
+    },
+    {
+      "name": "Lysoar",
+      "team": "Xi Lai Gaming",
+      "agent": "omen"
+    },
+    {
+      "name": "NoMan",
+      "team": "Xi Lai Gaming",
+      "agent": "raze"
+    },
+    {
+      "name": "Rarga",
+      "team": "Xi Lai Gaming",
+      "agent": "waylay"
+    }
+  ],
+  "map": "Split",
+  "map_number": 3,
+  "match_url": "https://www.vlr.gg/684616?game=all&tab=overview",
+  "vod_url": "https://youtu.be/9h3r8pTV618?t=5268"
+}

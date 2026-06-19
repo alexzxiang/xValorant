@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "LEVIAT\u00c1N",
+      "starting_side": "defense"
+    },
+    {
+      "name": "Global Esports",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "Sato",
+      "team": "LEVIAT\u00c1N",
+      "agent": "waylay"
+    },
+    {
+      "name": "Neon",
+      "team": "LEVIAT\u00c1N",
+      "agent": "brimstone"
+    },
+    {
+      "name": "kiNgg",
+      "team": "LEVIAT\u00c1N",
+      "agent": "breach"
+    },
+    {
+      "name": "blowz",
+      "team": "LEVIAT\u00c1N",
+      "agent": "tejo"
+    },
+    {
+      "name": "spike",
+      "team": "LEVIAT\u00c1N",
+      "agent": "neon"
+    },
+    {
+      "name": "UdoTan",
+      "team": "Global Esports",
+      "agent": "chamber"
+    },
+    {
+      "name": "xavi8k",
+      "team": "Global Esports",
+      "agent": "astra"
+    },
+    {
+      "name": "Autumn",
+      "team": "Global Esports",
+      "agent": "phoenix"
+    },
+    {
+      "name": "PatMen",
+      "team": "Global Esports",
+      "agent": "waylay"
+    },
+    {
+      "name": "Kr1stal",
+      "team": "Global Esports",
+      "agent": "fade"
+    }
+  ],
+  "map": "Fracture",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/684612?game=all&tab=overview",
+  "vod_url": "https://youtu.be/opiaS8K3ZIM?t=2518"
+}

@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Dragon Ranger Gaming",
+      "starting_side": "defense"
+    },
+    {
+      "name": "Xi Lai Gaming",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "vo0kashu",
+      "team": "Dragon Ranger Gaming",
+      "agent": "cypher"
+    },
+    {
+      "name": "Nicc",
+      "team": "Dragon Ranger Gaming",
+      "agent": "skye"
+    },
+    {
+      "name": "Flex1n",
+      "team": "Dragon Ranger Gaming",
+      "agent": "omen"
+    },
+    {
+      "name": "SpiritZ1",
+      "team": "Dragon Ranger Gaming",
+      "agent": "waylay"
+    },
+    {
+      "name": "Life",
+      "team": "Dragon Ranger Gaming",
+      "agent": "neon"
+    },
+    {
+      "name": "happywei",
+      "team": "Xi Lai Gaming",
+      "agent": "cypher"
+    },
+    {
+      "name": "Rarga",
+      "team": "Xi Lai Gaming",
+      "agent": "phoenix"
+    },
+    {
+      "name": "Lysoar",
+      "team": "Xi Lai Gaming",
+      "agent": "omen"
+    },
+    {
+      "name": "WsLeo",
+      "team": "Xi Lai Gaming",
+      "agent": "sova"
+    },
+    {
+      "name": "NoMan",
+      "team": "Xi Lai Gaming",
+      "agent": "jett"
+    }
+  ],
+  "map": "Haven",
+  "map_number": 1,
+  "match_url": "https://www.vlr.gg/684616?game=all&tab=overview",
+  "vod_url": "https://youtu.be/9h3r8pTV618?t=116"
+}

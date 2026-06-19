@@ -1,0 +1,22 @@
+{
+  "map": "pearl",
+  "model": "deepsetsv1",
+  "use_transformer": true,
+  "player_hidden": 64,
+  "global_hidden": 64,
+  "player_layers": 2,
+  "global_layers": 2,
+  "dropout": 0.4,
+  "n_params": 55174,
+  "best_epoch": 3,
+  "val": {
+    "brier": 0.2176782488822937,
+    "logloss": 0.6153781414031982,
+    "auc": 0.6876300935415731
+  },
+  "test": {
+    "brier": 0.1700928509235382,
+    "logloss": 0.5180941224098206,
+    "auc": 0.7858282739130047
+  }
+}

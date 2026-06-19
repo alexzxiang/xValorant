@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Dragon Ranger Gaming",
+      "starting_side": "attack"
+    },
+    {
+      "name": "Xi Lai Gaming",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "vo0kashu",
+      "team": "Dragon Ranger Gaming",
+      "agent": "cypher"
+    },
+    {
+      "name": "Flex1n",
+      "team": "Dragon Ranger Gaming",
+      "agent": "brimstone"
+    },
+    {
+      "name": "Nicc",
+      "team": "Dragon Ranger Gaming",
+      "agent": "fade"
+    },
+    {
+      "name": "SpiritZ1",
+      "team": "Dragon Ranger Gaming",
+      "agent": "waylay"
+    },
+    {
+      "name": "Life",
+      "team": "Dragon Ranger Gaming",
+      "agent": "phoenix"
+    },
+    {
+      "name": "Rarga",
+      "team": "Xi Lai Gaming",
+      "agent": "waylay"
+    },
+    {
+      "name": "Lysoar",
+      "team": "Xi Lai Gaming",
+      "agent": "brimstone"
+    },
+    {
+      "name": "happywei",
+      "team": "Xi Lai Gaming",
+      "agent": "cypher"
+    },
+    {
+      "name": "NoMan",
+      "team": "Xi Lai Gaming",
+      "agent": "tejo"
+    },
+    {
+      "name": "WsLeo",
+      "team": "Xi Lai Gaming",
+      "agent": "skye"
+    }
+  ],
+  "map": "Fracture",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/684616?game=all&tab=overview",
+  "vod_url": "https://youtu.be/9h3r8pTV618?t=2424"
+}

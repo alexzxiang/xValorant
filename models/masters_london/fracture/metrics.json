@@ -1,0 +1,22 @@
+{
+  "map": "fracture",
+  "model": "deepsetsv1",
+  "use_transformer": true,
+  "player_hidden": 64,
+  "global_hidden": 64,
+  "player_layers": 2,
+  "global_layers": 2,
+  "dropout": 0.4,
+  "n_params": 55174,
+  "best_epoch": 2,
+  "val": {
+    "brier": 0.19942209124565125,
+    "logloss": 0.5838657021522522,
+    "auc": 0.8059417620267217
+  },
+  "test": {
+    "brier": 0.2082599252462387,
+    "logloss": 0.5953764915466309,
+    "auc": 0.7085589856349084
+  }
+}

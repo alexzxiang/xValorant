@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "LEVIAT\u00c1N",
+      "starting_side": "defense"
+    },
+    {
+      "name": "G2 Esports",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "Neon",
+      "team": "LEVIAT\u00c1N",
+      "agent": "omen"
+    },
+    {
+      "name": "blowz",
+      "team": "LEVIAT\u00c1N",
+      "agent": "fade"
+    },
+    {
+      "name": "kiNgg",
+      "team": "LEVIAT\u00c1N",
+      "agent": "viper"
+    },
+    {
+      "name": "Sato",
+      "team": "LEVIAT\u00c1N",
+      "agent": "phoenix"
+    },
+    {
+      "name": "spike",
+      "team": "LEVIAT\u00c1N",
+      "agent": "neon"
+    },
+    {
+      "name": "valyn",
+      "team": "G2 Esports",
+      "agent": "astra"
+    },
+    {
+      "name": "jawgemo",
+      "team": "G2 Esports",
+      "agent": "raze"
+    },
+    {
+      "name": "leaf",
+      "team": "G2 Esports",
+      "agent": "viper"
+    },
+    {
+      "name": "trent",
+      "team": "G2 Esports",
+      "agent": "fade"
+    },
+    {
+      "name": "BABYBAY",
+      "team": "G2 Esports",
+      "agent": "vyse"
+    }
+  ],
+  "map": "Split",
+  "map_number": 5,
+  "match_url": "https://www.vlr.gg/660374?game=all&tab=overview",
+  "vod_url": "https://youtu.be/0f1BgnLZGzc?t=13189"
+}

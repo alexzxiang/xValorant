@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Global Esports",
+      "starting_side": "attack"
+    },
+    {
+      "name": "Xi Lai Gaming",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "Autumn",
+      "team": "Global Esports",
+      "agent": "jett"
+    },
+    {
+      "name": "UdoTan",
+      "team": "Global Esports",
+      "agent": "raze"
+    },
+    {
+      "name": "Kr1stal",
+      "team": "Global Esports",
+      "agent": "vyse"
+    },
+    {
+      "name": "PatMen",
+      "team": "Global Esports",
+      "agent": "omen"
+    },
+    {
+      "name": "xavi8k",
+      "team": "Global Esports",
+      "agent": "skye"
+    },
+    {
+      "name": "Rarga",
+      "team": "Xi Lai Gaming",
+      "agent": "sage"
+    },
+    {
+      "name": "Lysoar",
+      "team": "Xi Lai Gaming",
+      "agent": "omen"
+    },
+    {
+      "name": "NoMan",
+      "team": "Xi Lai Gaming",
+      "agent": "deadlock"
+    },
+    {
+      "name": "WsLeo",
+      "team": "Xi Lai Gaming",
+      "agent": "fade"
+    },
+    {
+      "name": "happywei",
+      "team": "Xi Lai Gaming",
+      "agent": "cypher"
+    }
+  ],
+  "map": "Lotus",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/684618?game=all&tab=overview",
+  "vod_url": "https://youtu.be/nBjwduhpzmM?t=2879"
+}

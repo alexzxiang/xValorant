@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Team Vitality",
+      "starting_side": "attack"
+    },
+    {
+      "name": "Dragon Ranger Gaming",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "Chronicle",
+      "team": "Team Vitality",
+      "agent": "viper"
+    },
+    {
+      "name": "PROFEK",
+      "team": "Team Vitality",
+      "agent": "harbor"
+    },
+    {
+      "name": "Derke",
+      "team": "Team Vitality",
+      "agent": "jett"
+    },
+    {
+      "name": "Sayonara",
+      "team": "Team Vitality",
+      "agent": "sova"
+    },
+    {
+      "name": "Jamppi",
+      "team": "Team Vitality",
+      "agent": "kayo"
+    },
+    {
+      "name": "Life",
+      "team": "Dragon Ranger Gaming",
+      "agent": "chamber"
+    },
+    {
+      "name": "Nicc",
+      "team": "Dragon Ranger Gaming",
+      "agent": "sova"
+    },
+    {
+      "name": "vo0kashu",
+      "team": "Dragon Ranger Gaming",
+      "agent": "viper"
+    },
+    {
+      "name": "SpiritZ1",
+      "team": "Dragon Ranger Gaming",
+      "agent": "jett"
+    },
+    {
+      "name": "Flex1n",
+      "team": "Dragon Ranger Gaming",
+      "agent": "astra"
+    }
+  ],
+  "map": "Breeze",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/684610?game=all&tab=overview",
+  "vod_url": "https://youtu.be/Xo1sU79Fvas?t=2799"
+}

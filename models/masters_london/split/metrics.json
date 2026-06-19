@@ -1,0 +1,22 @@
+{
+  "map": "split",
+  "model": "deepsetsv1",
+  "use_transformer": true,
+  "player_hidden": 64,
+  "global_hidden": 64,
+  "player_layers": 2,
+  "global_layers": 2,
+  "dropout": 0.4,
+  "n_params": 55174,
+  "best_epoch": 2,
+  "val": {
+    "brier": 0.1771618276834488,
+    "logloss": 0.5306177139282227,
+    "auc": 0.8337323709739386
+  },
+  "test": {
+    "brier": 0.23832987248897552,
+    "logloss": 0.6745920181274414,
+    "auc": 0.6653449727725406
+  }
+}

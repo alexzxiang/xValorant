@@ -1,0 +1,22 @@
+{
+  "map": "haven",
+  "model": "deepsetsv1",
+  "use_transformer": true,
+  "player_hidden": 64,
+  "global_hidden": 64,
+  "player_layers": 2,
+  "global_layers": 2,
+  "dropout": 0.4,
+  "n_params": 55174,
+  "best_epoch": 1,
+  "val": {
+    "brier": 0.24391618371009827,
+    "logloss": 0.6806337237358093,
+    "auc": 0.5980168610880308
+  },
+  "test": {
+    "brier": 0.24246428906917572,
+    "logloss": 0.6776624917984009,
+    "auc": 0.7468502095773246
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "map": "ascent",
+  "model": "deepsetsv1",
+  "use_transformer": true,
+  "player_hidden": 64,
+  "global_hidden": 64,
+  "player_layers": 2,
+  "global_layers": 2,
+  "dropout": 0.4,
+  "n_params": 55174,
+  "best_epoch": 4,
+  "val": {
+    "brier": 0.17780397832393646,
+    "logloss": 0.538762092590332,
+    "auc": 0.8189981478768371
+  },
+  "test": {
+    "brier": 0.24276667833328247,
+    "logloss": 0.6827405691146851,
+    "auc": 0.6671750238966229
+  }
+}

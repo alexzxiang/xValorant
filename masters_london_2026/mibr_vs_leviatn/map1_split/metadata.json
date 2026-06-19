@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "MIBR",
+      "starting_side": "defense"
+    },
+    {
+      "name": "LEVIAT\u00c1N",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "Mazino",
+      "team": "MIBR",
+      "agent": "astra"
+    },
+    {
+      "name": "aspas",
+      "team": "MIBR",
+      "agent": "raze"
+    },
+    {
+      "name": "zekken",
+      "team": "MIBR",
+      "agent": "neon"
+    },
+    {
+      "name": "Verno",
+      "team": "MIBR",
+      "agent": "fade"
+    },
+    {
+      "name": "tex",
+      "team": "MIBR",
+      "agent": "vyse"
+    },
+    {
+      "name": "Neon",
+      "team": "LEVIAT\u00c1N",
+      "agent": "omen"
+    },
+    {
+      "name": "spike",
+      "team": "LEVIAT\u00c1N",
+      "agent": "neon"
+    },
+    {
+      "name": "kiNgg",
+      "team": "LEVIAT\u00c1N",
+      "agent": "viper"
+    },
+    {
+      "name": "blowz",
+      "team": "LEVIAT\u00c1N",
+      "agent": "fade"
+    },
+    {
+      "name": "Sato",
+      "team": "LEVIAT\u00c1N",
+      "agent": "phoenix"
+    }
+  ],
+  "map": "Split",
+  "map_number": 1,
+  "match_url": "https://www.vlr.gg/660371?game=all&tab=overview",
+  "vod_url": "https://youtu.be/62rQ6rGBSBc?t=348"
+}

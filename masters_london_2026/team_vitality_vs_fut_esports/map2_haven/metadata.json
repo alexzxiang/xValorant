@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Team Vitality",
+      "starting_side": "defense"
+    },
+    {
+      "name": "FUT Esports",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "Sayonara",
+      "team": "Team Vitality",
+      "agent": "phoenix"
+    },
+    {
+      "name": "Jamppi",
+      "team": "Team Vitality",
+      "agent": "sova"
+    },
+    {
+      "name": "Derke",
+      "team": "Team Vitality",
+      "agent": "jett"
+    },
+    {
+      "name": "Chronicle",
+      "team": "Team Vitality",
+      "agent": "cypher"
+    },
+    {
+      "name": "PROFEK",
+      "team": "Team Vitality",
+      "agent": "omen"
+    },
+    {
+      "name": "yetujey",
+      "team": "FUT Esports",
+      "agent": "cypher"
+    },
+    {
+      "name": "KROSTALY",
+      "team": "FUT Esports",
+      "agent": "sova"
+    },
+    {
+      "name": "s0pp",
+      "team": "FUT Esports",
+      "agent": "jett"
+    },
+    {
+      "name": "sociablEE",
+      "team": "FUT Esports",
+      "agent": "omen"
+    },
+    {
+      "name": "xeus",
+      "team": "FUT Esports",
+      "agent": "waylay"
+    }
+  ],
+  "map": "Haven",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/684614?game=all&tab=overview",
+  "vod_url": "https://youtu.be/pL4dzDvZkLs?t=3451"
+}

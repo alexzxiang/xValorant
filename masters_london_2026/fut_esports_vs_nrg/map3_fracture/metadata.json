@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "FUT Esports",
+      "starting_side": "defense"
+    },
+    {
+      "name": "NRG",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "sociablEE",
+      "team": "FUT Esports",
+      "agent": "brimstone"
+    },
+    {
+      "name": "xeus",
+      "team": "FUT Esports",
+      "agent": "raze"
+    },
+    {
+      "name": "s0pp",
+      "team": "FUT Esports",
+      "agent": "jett"
+    },
+    {
+      "name": "yetujey",
+      "team": "FUT Esports",
+      "agent": "cypher"
+    },
+    {
+      "name": "KROSTALY",
+      "team": "FUT Esports",
+      "agent": "fade"
+    },
+    {
+      "name": "skuba",
+      "team": "NRG",
+      "agent": "cypher"
+    },
+    {
+      "name": "keiko",
+      "team": "NRG",
+      "agent": "phoenix"
+    },
+    {
+      "name": "mada",
+      "team": "NRG",
+      "agent": "waylay"
+    },
+    {
+      "name": "Ethan",
+      "team": "NRG",
+      "agent": "fade"
+    },
+    {
+      "name": "brawk",
+      "team": "NRG",
+      "agent": "brimstone"
+    }
+  ],
+  "map": "Fracture",
+  "map_number": 3,
+  "match_url": "https://www.vlr.gg/684619?game=all&tab=overview",
+  "vod_url": "https://youtu.be/ep-ofVqg81s?t=7142"
+}

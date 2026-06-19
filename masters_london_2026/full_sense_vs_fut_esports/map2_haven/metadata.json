@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "FULL SENSE",
+      "starting_side": "attack"
+    },
+    {
+      "name": "FUT Esports",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "primmie",
+      "team": "FULL SENSE",
+      "agent": "phoenix"
+    },
+    {
+      "name": "Killua",
+      "team": "FULL SENSE",
+      "agent": "fade"
+    },
+    {
+      "name": "Crws",
+      "team": "FULL SENSE",
+      "agent": "omen"
+    },
+    {
+      "name": "Leviathan",
+      "team": "FULL SENSE",
+      "agent": "chamber"
+    },
+    {
+      "name": "JitBoyS",
+      "team": "FULL SENSE",
+      "agent": "neon"
+    },
+    {
+      "name": "xeus",
+      "team": "FUT Esports",
+      "agent": "waylay"
+    },
+    {
+      "name": "KROSTALY",
+      "team": "FUT Esports",
+      "agent": "sova"
+    },
+    {
+      "name": "sociablEE",
+      "team": "FUT Esports",
+      "agent": "omen"
+    },
+    {
+      "name": "s0pp",
+      "team": "FUT Esports",
+      "agent": "jett"
+    },
+    {
+      "name": "yetujey",
+      "team": "FUT Esports",
+      "agent": "cypher"
+    }
+  ],
+  "map": "Haven",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/684611?game=all&tab=overview",
+  "vod_url": "https://youtu.be/TVOx7WKAu_A?t=2324"
+}

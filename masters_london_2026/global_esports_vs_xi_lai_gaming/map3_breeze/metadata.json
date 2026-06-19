@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Global Esports",
+      "starting_side": "defense"
+    },
+    {
+      "name": "Xi Lai Gaming",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "UdoTan",
+      "team": "Global Esports",
+      "agent": "neon"
+    },
+    {
+      "name": "Kr1stal",
+      "team": "Global Esports",
+      "agent": "sova"
+    },
+    {
+      "name": "xavi8k",
+      "team": "Global Esports",
+      "agent": "sage"
+    },
+    {
+      "name": "PatMen",
+      "team": "Global Esports",
+      "agent": "viper"
+    },
+    {
+      "name": "Autumn",
+      "team": "Global Esports",
+      "agent": "chamber"
+    },
+    {
+      "name": "Lysoar",
+      "team": "Xi Lai Gaming",
+      "agent": "omen"
+    },
+    {
+      "name": "WsLeo",
+      "team": "Xi Lai Gaming",
+      "agent": "sova"
+    },
+    {
+      "name": "happywei",
+      "team": "Xi Lai Gaming",
+      "agent": "viper"
+    },
+    {
+      "name": "Rarga",
+      "team": "Xi Lai Gaming",
+      "agent": "phoenix"
+    },
+    {
+      "name": "NoMan",
+      "team": "Xi Lai Gaming",
+      "agent": "jett"
+    }
+  ],
+  "map": "Breeze",
+  "map_number": 3,
+  "match_url": "https://www.vlr.gg/684618?game=all&tab=overview",
+  "vod_url": "https://youtu.be/nBjwduhpzmM?t=6045"
+}

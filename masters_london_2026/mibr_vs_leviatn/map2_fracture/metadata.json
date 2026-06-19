@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "MIBR",
+      "starting_side": "attack"
+    },
+    {
+      "name": "LEVIAT\u00c1N",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "aspas",
+      "team": "MIBR",
+      "agent": "jett"
+    },
+    {
+      "name": "Verno",
+      "team": "MIBR",
+      "agent": "skye"
+    },
+    {
+      "name": "tex",
+      "team": "MIBR",
+      "agent": "cypher"
+    },
+    {
+      "name": "Mazino",
+      "team": "MIBR",
+      "agent": "brimstone"
+    },
+    {
+      "name": "zekken",
+      "team": "MIBR",
+      "agent": "neon"
+    },
+    {
+      "name": "Neon",
+      "team": "LEVIAT\u00c1N",
+      "agent": "brimstone"
+    },
+    {
+      "name": "blowz",
+      "team": "LEVIAT\u00c1N",
+      "agent": "tejo"
+    },
+    {
+      "name": "spike",
+      "team": "LEVIAT\u00c1N",
+      "agent": "neon"
+    },
+    {
+      "name": "kiNgg",
+      "team": "LEVIAT\u00c1N",
+      "agent": "breach"
+    },
+    {
+      "name": "Sato",
+      "team": "LEVIAT\u00c1N",
+      "agent": "waylay"
+    }
+  ],
+  "map": "Fracture",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/660371?game=all&tab=overview",
+  "vod_url": "https://youtu.be/62rQ6rGBSBc?t=3481"
+}

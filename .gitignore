@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Outputs
+series_output/
+*.mp4
+!demo.mp4
+*.avi
+*.mkv
+nrg_edg_output/
+debug_frames/
+debug_crops/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.bak
+
+# Virtual environment
+.venv/
+
+# Processed-VOD intermediate artifacts — per-frame minimap snapshots.
+# Not read by the training pipeline (build_dataset.py uses frame_states.csv only).
+minimap_frames/
+
+# Legacy processed data — not used by the current pipeline
+champs2025_processed_vods/
+
+# Built datasets — regenerable from frame_states.csv via build_dataset.py
+data/dataset_*/
+
+# Live-capture debug output (top-level only; keeps masters_london_2026/**/output)
+/output/

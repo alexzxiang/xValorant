@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Team Heretics",
+      "starting_side": "defense"
+    },
+    {
+      "name": "Eternal Fire",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "Boo",
+      "team": "Team Heretics",
+      "agent": "brimstone"
+    },
+    {
+      "name": "benjyfishy",
+      "team": "Team Heretics",
+      "agent": "cypher"
+    },
+    {
+      "name": "koshmaras",
+      "team": "Team Heretics",
+      "agent": "neon"
+    },
+    {
+      "name": "Wo0t",
+      "team": "Team Heretics",
+      "agent": "raze"
+    },
+    {
+      "name": "RieNs",
+      "team": "Team Heretics",
+      "agent": "fade"
+    },
+    {
+      "name": "nekky",
+      "team": "Eternal Fire",
+      "agent": "fade"
+    },
+    {
+      "name": "echo",
+      "team": "Eternal Fire",
+      "agent": "cypher"
+    },
+    {
+      "name": "Izzy",
+      "team": "Eternal Fire",
+      "agent": "neon"
+    },
+    {
+      "name": "Favian",
+      "team": "Eternal Fire",
+      "agent": "raze"
+    },
+    {
+      "name": "audaz",
+      "team": "Eternal Fire",
+      "agent": "astra"
+    }
+  ],
+  "map": "Fracture",
+  "map_number": 2,
+  "match_url": "https://www.vlr.gg/660391?game=all&tab=overview",
+  "vod_url": "https://youtu.be/nWM-3hZv0I0?t=20547"
+}

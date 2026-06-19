@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "Team Heretics",
+      "starting_side": "attack"
+    },
+    {
+      "name": "Eternal Fire",
+      "starting_side": "defense"
+    }
+  ],
+  "players": [
+    {
+      "name": "Wo0t",
+      "team": "Team Heretics",
+      "agent": "jett"
+    },
+    {
+      "name": "koshmaras",
+      "team": "Team Heretics",
+      "agent": "neon"
+    },
+    {
+      "name": "Boo",
+      "team": "Team Heretics",
+      "agent": "omen"
+    },
+    {
+      "name": "benjyfishy",
+      "team": "Team Heretics",
+      "agent": "cypher"
+    },
+    {
+      "name": "RieNs",
+      "team": "Team Heretics",
+      "agent": "sova"
+    },
+    {
+      "name": "audaz",
+      "team": "Eternal Fire",
+      "agent": "astra"
+    },
+    {
+      "name": "Izzy",
+      "team": "Eternal Fire",
+      "agent": "jett"
+    },
+    {
+      "name": "nekky",
+      "team": "Eternal Fire",
+      "agent": "sova"
+    },
+    {
+      "name": "echo",
+      "team": "Eternal Fire",
+      "agent": "cypher"
+    },
+    {
+      "name": "Favian",
+      "team": "Eternal Fire",
+      "agent": "phoenix"
+    }
+  ],
+  "map": "Ascent",
+  "map_number": 3,
+  "match_url": "https://www.vlr.gg/660391?game=all&tab=overview",
+  "vod_url": "https://youtu.be/nWM-3hZv0I0?t=23914"
+}

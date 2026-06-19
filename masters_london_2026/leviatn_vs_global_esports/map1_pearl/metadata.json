@@ -1,0 +1,68 @@
+{
+  "teams": [
+    {
+      "name": "LEVIAT\u00c1N",
+      "starting_side": "defense"
+    },
+    {
+      "name": "Global Esports",
+      "starting_side": "attack"
+    }
+  ],
+  "players": [
+    {
+      "name": "Sato",
+      "team": "LEVIAT\u00c1N",
+      "agent": "phoenix"
+    },
+    {
+      "name": "Neon",
+      "team": "LEVIAT\u00c1N",
+      "agent": "chamber"
+    },
+    {
+      "name": "kiNgg",
+      "team": "LEVIAT\u00c1N",
+      "agent": "astra"
+    },
+    {
+      "name": "blowz",
+      "team": "LEVIAT\u00c1N",
+      "agent": "sova"
+    },
+    {
+      "name": "spike",
+      "team": "LEVIAT\u00c1N",
+      "agent": "neon"
+    },
+    {
+      "name": "UdoTan",
+      "team": "Global Esports",
+      "agent": "neon"
+    },
+    {
+      "name": "Kr1stal",
+      "team": "Global Esports",
+      "agent": "killjoy"
+    },
+    {
+      "name": "Autumn",
+      "team": "Global Esports",
+      "agent": "phoenix"
+    },
+    {
+      "name": "xavi8k",
+      "team": "Global Esports",
+      "agent": "astra"
+    },
+    {
+      "name": "PatMen",
+      "team": "Global Esports",
+      "agent": "fade"
+    }
+  ],
+  "map": "Pearl",
+  "map_number": 1,
+  "match_url": "https://www.vlr.gg/684612?game=all&tab=overview",
+  "vod_url": "https://youtu.be/opiaS8K3ZIM?t=230"
+}

@@ -1,0 +1,164 @@
+{
+  "jett": {
+    "ability_1": {"max_charges": 2, "rechargeable": false, "name": "cloudburst"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "updraft"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "tailwind"},
+    "ultimate": {"max_charges": 7, "name": "bladestorm"}
+  },
+  "raze": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "boom bot"},
+    "ability_2": {"max_charges": 2, "rechargeable": false, "name": "blast pack"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "paint shells"},
+    "ultimate": {"max_charges": 8, "name": "showstopper"}
+  },
+  "breach": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "aftershock"},
+    "ability_2": {"max_charges": 2, "rechargeable": false, "name": "flashpoint"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "fault line"},
+    "ultimate": {"max_charges": 7, "name": "rolling thunder"}
+  },
+  "omen": {
+    "ability_1": {"max_charges": 2, "rechargeable": false, "name": "shrouded step"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "paranoia"},
+    "ability_3": {"max_charges": 2, "rechargeable": true, "name": "dark cover"},
+    "ultimate": {"max_charges": 7, "name": "from the shadows"}
+  },
+  "brimstone": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "stim beacon"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "incendiary"},
+    "ability_3": {"max_charges": 3, "rechargeable": false, "name": "sky smokes"},
+    "ultimate": {"max_charges": 7, "name": "orbital strike"}
+  },
+  "phoenix": {
+    "ability_1": {"max_charges": 1, "rechargeable": false},
+    "ability_2": {"max_charges": 2, "rechargeable": false},
+    "ability_3": {"max_charges": 1, "rechargeable": true},
+    "ultimate": {"max_charges": 6}
+  },
+  "sova": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "owl drone"},
+    "ability_2": {"max_charges": 2, "rechargeable": false, "name": "shock dart"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "recon bolt"},
+    "ultimate": {"max_charges": 8, "name": "hunter's fury"}
+  },
+  "sage": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "barrier orb"},
+    "ability_2": {"max_charges": 2, "rechargeable": false, "name": "slow orb"},
+    "ability_3": {"max_charges": 1, "rechargeable": false, "name": "healing orb"},
+    "ultimate": {"max_charges": 8, "name": "resurrection"}
+  },
+  "viper": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "snakebite"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "poison cloud"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "toxic screen"},
+    "ultimate": {"max_charges": 8, "name": "viper's pit"}
+  },
+  "cypher": {
+    "ability_1": {"max_charges": 2, "rechargeable": true, "name": "trapwire"},
+    "ability_2": {"max_charges": 2, "rechargeable": false, "name": "cyber cage"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "spycam"},
+    "ultimate": {"max_charges": 7, "name": "neural theft"}
+  },
+  "reyna": {
+    "ability_1": {"max_charges": 2, "rechargeable": false},
+    "ability_2": {"max_charges": 2, "rechargeable": false},
+    "ability_3": {"max_charges": 1, "rechargeable": true},
+    "ultimate": {"max_charges": 6}
+  },
+  "killjoy": {
+    "ability_1": {"max_charges": 2, "rechargeable": false, "name": "nanoswarm"},
+    "ability_2": {"max_charges": 1, "rechargeable": true, "name": "alarmbot"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "turret"},
+    "ultimate": {"max_charges": 8, "name": "lockdown"}
+  },
+  "skye": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "regrowth"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "trailblazer"},
+    "ability_3": {"max_charges": 2, "rechargeable": false, "name": "guiding light"},
+    "ultimate": {"max_charges": 7, "name": "seekers"}
+  },
+  "yoru": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "fakeout"},
+    "ability_2": {"max_charges": 2, "rechargeable": false, "name": "blindside"},
+    "ability_3": {"max_charges": 2, "rechargeable": true, "name": "gatecrash"},
+    "ultimate": {"max_charges": 7, "name": "dimensional drift"}
+  },
+  "astra": {
+    "ability_1": {"max_charges": 5, "rechargeable": true},
+    "ability_2": {"max_charges": 5, "rechargeable": true},
+    "ability_3": {"max_charges": 1, "rechargeable": true},
+    "ultimate": {"max_charges": 7}
+  },
+  "kayo": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "frag/ment"},
+    "ability_2": {"max_charges": 2, "rechargeable": false, "name": "flash/drive"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "zero/point"},
+    "ultimate": {"max_charges": 8, "name": "null/command"}
+  },
+  "chamber": {
+    "ability_1": {"max_charges": 1, "rechargeable": true, "name": "trademark"},
+    "ability_2": {"max_charges": 8, "rechargeable": false, "name": "headhunter"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "rendezvous"},
+    "ultimate": {"max_charges": 8, "name": "tour de force"}
+  },
+  "neon": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "fast lane"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "relay bolt"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "high gear"},
+    "ultimate": {"max_charges": 7, "name": "overdrive"}
+  },
+  "fade": {
+    "ability_1": {"max_charges": 2, "rechargeable": false, "name": "prowler"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "seize"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "haunt"},
+    "ultimate": {"max_charges": 8, "name": "nightfall"}
+  },
+  "harbor": {
+    "ability_1": {"max_charges": 2, "rechargeable": false, "name": "cascade"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "cove"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "high tide"},
+    "ultimate": {"max_charges": 7, "name": "reckoning"}
+  },
+  "gekko": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "mosh pit"},
+    "ability_2": {"max_charges": 1, "rechargeable": true, "name": "wingman"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "dizzy"},
+    "ultimate": {"max_charges": 7, "name": "thrash"}
+  },
+  "deadlock": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "barrier mesh"},
+    "ability_2": {"max_charges": 2, "rechargeable": true, "name": "sonic sensor"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "gravnet"},
+    "ultimate": {"max_charges": 8, "name": "annihilation"}
+  },
+  "iso": {
+    "ability_1": {"max_charges": 2, "rechargeable": false},
+    "ability_2": {"max_charges": 1, "rechargeable": false},
+    "ability_3": {"max_charges": 1, "rechargeable": true},
+    "ultimate": {"max_charges": 7}
+  },
+  "clove": {
+    "ability_1": {"max_charges": 2, "rechargeable": false},
+    "ability_2": {"max_charges": 1, "rechargeable": false},
+    "ability_3": {"max_charges": 1, "rechargeable": true},
+    "ultimate": {"max_charges": 7}
+  },
+  "vyse": {
+    "ability_1": {"max_charges": 2, "rechargeable": false, "name": "razorvine"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "shear"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "arc rose"},
+    "ultimate": {"max_charges": 7, "name": "steel garden"}
+  },
+  "tejo": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "stealth drone"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "special delivery"},
+    "ability_3": {"max_charges": 2, "rechargeable": false, "name": "guided salvo"},
+    "ultimate": {"max_charges": 7, "name": "armageddon"}
+  },
+  "waylay": {
+    "ability_1": {"max_charges": 1, "rechargeable": false, "name": "saturate"},
+    "ability_2": {"max_charges": 1, "rechargeable": false, "name": "lightspeed"},
+    "ability_3": {"max_charges": 1, "rechargeable": true, "name": "refract"},
+    "ultimate": {"max_charges": 7, "name": "convergent paths"}
+  }
+}
