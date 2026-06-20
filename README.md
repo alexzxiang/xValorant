@@ -128,32 +128,25 @@ Each processed map produces `frame_states.csv` (frame-by-frame player states) an
 
 ```bash
 python scripts/build_dataset.py \
-  --processed-dir champs2025_processed_vods \
+  --data-dirs masters_london_2026 \
   --output-dir data/dataset_my_event
 ```
 
-Labels each ACTIVE\_ROUND frame with the round outcome, engineers features, and splits by match (never by round) into train/val/test `.npz` files.
+Labels each ACTIVE\_ROUND frame with the round outcome, engineers features, and splits by match (never by round) into per-map train/val/test `.npz` files. Pass several roots to `--data-dirs` to combine events.
 
 ### 3. Train
 
 ```bash
 python scripts/train_model.py \
-  --data-dir data/dataset_my_event \
-  --output-dir models/my_event \
-  --map lotus
+  --dataset-dir data/dataset_my_event \
+  --output-dir models/my_event
 ```
 
-Trains a per-map DeepSets transformer. Best checkpoint saved to `models/my_event/<map>/best_model.pt`.
+Trains one per-map DeepSets transformer for every map in the dataset (it loops over all maps — there is no `--map` flag). The best checkpoint per map is saved to `models/my_event/<map>/best_model.pt`.
 
 ### 4. Evaluate
 
-```bash
-python scripts/evaluate_model.py \
-  --model-dir models/my_event \
-  --data-dir data/dataset_my_event
-```
-
-Reports Brier score, log loss, AUC, and plots reliability diagrams per map.
+Per-map validation/test **Brier, log loss, and AUC** plus reliability diagrams (`reliability_{val,test}.png`) are written automatically during the training run above — there is no separate evaluation pass for the DeepSets models. (`scripts/evaluate_model.py` scores only the legacy XGBoost baseline.)
 
 ---
 
