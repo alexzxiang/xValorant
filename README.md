@@ -6,9 +6,7 @@ Real-time round win probability for professional Valorant broadcasts. Point it a
 
 ### 🎥 Showcase
 
-[![Showcase](https://drive.google.com/thumbnail?id=1asZzbtpJRzkTrqYvJhKXxCW4k8lsZSl8&sz=w1280)](https://drive.google.com/file/d/1asZzbtpJRzkTrqYvJhKXxCW4k8lsZSl8/view?usp=sharing)
-
-▶ **[Watch the full showcase](https://drive.google.com/file/d/1asZzbtpJRzkTrqYvJhKXxCW4k8lsZSl8/view?usp=sharing)** (Google Drive)
+https://github.com/user-attachments/assets/35fe1146-3319-4879-bab8-b6c92672e449
 
 ---
 
